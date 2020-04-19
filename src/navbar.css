@@ -1,0 +1,185 @@
+.header{
+    height: 72px;
+    width: 100%;
+    box-shadow: rgb(240, 244, 247) 10px 16px 32px;
+    position: sticky;
+    top: 0px;
+    z-index: 3;
+    background: rgb(255, 255, 255);
+}
+
+.header_parent{
+    width: 1136px;
+    grid-template-columns: repeat(24, 1fr);
+    display: grid;
+    height: 100%;
+    grid-template-rows: auto;
+    position: relative;
+    grid-column-gap: 16px;
+    margin: auto;
+}
+
+.header_anchor{
+    line-height: 150%;
+    font-size: 12px;
+    font-weight: normal;
+    align-self: center;
+    pointer-events: auto;
+    grid-column: 1 / 5;
+}
+
+.header-button{
+    align-self: center;
+    background-color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 150%;
+    color: rgb(60, 72, 82);
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    box-shadow: none;
+    cursor: pointer;
+    grid-column: span 5 / auto;
+    padding: 14px 20px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(240, 244, 247);
+}
+
+.header-svg{
+    transform: rotate(0deg);
+    transition: transform 400ms ease-in-out 0s;
+}
+
+.header-login{
+    align-self: center;
+    display: flex;
+    grid-column: 23 / 25;
+
+    position: relative;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: bold;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    width: 80px;
+    height: 40px;
+    min-height: 40px;
+    color: rgb(255, 255, 255);
+    -webkit-user-drag: none;
+    user-select: none;
+    background-color: rgb(8, 189, 128);
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    border-radius: 4px;
+    transition: box-shadow 200ms ease-in-out 0s, transform 200ms ease-in-out 0s;
+}
+
+.header-search{
+    align-self: center;
+    grid-column: 15 / 23;
+}
+
+.header-svg-2{
+    float: right;
+    width: 120px;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    height: 48px;
+    cursor: pointer;
+    transition: width 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    padding-left: 14px;
+    position: relative;
+    border-radius: 4px;
+    color: rgba(0, 0, 0, 0.87);
+    cursor: text;
+    display: inline-flex;
+    position: relative;
+    font-size: 1rem;
+    box-sizing: border-box;
+    align-items: center;
+    font-family: AvertaStd, -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 400;
+    line-height: 1.1875em;
+}
+
+.header-svg-3{
+    margin-right: 8px;
+    height: 0.01em;
+    display: flex;
+    max-height: 2em;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.header-svg-4{
+    width: 24px;
+    height: 24px;
+}
+
+.header-input{
+    cursor: pointer;
+    color: rgb(60, 72, 82);
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 150%;
+    padding-left: 8px;
+    padding: 18.5px 14px;
+    font: inherit;
+    color: currentColor;
+    width: 100%;
+    border: 0;
+    height: 1.1875em;
+    margin: 0;
+    display: block;
+    padding: 6px 0 7px;
+    min-width: 0;
+    background: none;
+    box-sizing: content-box;
+    animation-name: mui-auto-fill-cancel;
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+.header-fieldset{
+    top: -5px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+    pointer-events: none;
+    margin: 0px;
+    padding: 0px;
+    transition: padding-left 200ms cubic-bezier(0, 0, 0.2, 1) 0ms;
+    border-radius: inherit;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    padding-left: 8px;
+}
+
+.header-legend{
+    padding: 0;
+    text-align: left;
+    transition: width 150ms cubic-bezier(0.0, 0, 0.2, 1) 0ms;
+    line-height: 11px;
+}
+
+legend{
+    box-sizing: border-box;
+    color: inherit;
+    display: table;
+    max-width: 100%;
+    white-space: normal;
+    padding: 0px;
+}

@@ -1,0 +1,40 @@
+.div{
+    display: flex;
+    margin-bottom: 16px;
+    margin-top: 28px;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px;
+    grid-column: span 18 / auto;
+}
+
+.h4{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    color: rgb(60, 72, 82);
+    margin: 0px
+}
+
+.a{
+    line-height: 150%;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.aFrHS {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+}
+
+.p{
+    font-size: 14px;
+    line-height: 150%;
+    color: rgb(8, 189, 128);
+    font-weight: bold;
+    margin: 0px;
+}
+
+a{
+    background-color: transparent;
+}

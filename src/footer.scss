@@ -1,0 +1,161 @@
+.footer-container {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    margin-top: 40px;
+    padding: 40px 0px;
+}
+
+.footer-wrapper {
+    width: 1136px;
+    display: grid;
+    grid-template-columns: repeat(24, 1fr);
+    margin: auto;
+    grid-column-gap: 16px;
+   
+}
+
+.footer-info {
+    display: flex;
+    flex-direction: column;
+    grid-column: span 6 / auto;
+}
+
+.anchor-image {
+    line-height: 150%;
+    font-size: 12px;
+    font-weight: normal;
+    align-self: center;
+    pointer-events: auto;
+    grid-column: 1 / 5;
+}
+
+a {
+    background: transparent;
+}
+
+.anchor-list {
+    margin-bottom: 16px;
+    margin-top: 40px;
+    display: flex;
+}
+
+.anchor-img {
+    margin-right: 12px;
+    -webkit-user-drag: none;
+    user-select: none;
+    display: block;
+}
+
+.footer-p {
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 150%;
+    color: rgb(60, 72, 82);
+    margin: 0px;
+}
+
+.footer-leftStyle-1 {
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    grid-column: 8 / 11;
+    margin:0;
+}
+
+.li-1 {
+    list-style-type: none;
+    margin-bottom: 8px;
+    
+}
+
+.li-a {
+    color: rgb(60, 72, 82);
+    line-height: 150%;
+    font-size: 12px;
+    font-weight: normal;
+    display: flex;
+    text-decoration: none   ;
+}
+
+a{
+    background-color: transparent;
+    list-style-type: none;
+}
+
+.footer-left-style-2{
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    grid-column: 12 / 15;
+    margin:0;
+}
+
+.footer-download-1{
+    display: flex;
+    flex-direction: column;
+    grid-column: 18 / 21;
+}
+
+.hZLCCj {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 150%;
+    color: rgb(128, 128, 128);
+    margin: 0px 0px 16px;
+}
+
+.grbZhS {
+    -webkit-user-drag: none;
+    user-select: none;
+    display: block;
+    margin: 0px 0px 8px;
+}
+
+.fzRNsp {
+    display: flex;
+    flex-direction: column;
+    grid-column: 18 / 21;
+}
+
+.cxuodm {
+    -webkit-user-drag: none;
+    user-select: none;
+    display: block;
+    margin: 0px;
+}
+
+.irtqKK {
+    display: flex;
+    flex-direction: column;
+    grid-column: 22 / 25;
+}
+
+.hZLCCj {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 150%;
+    color: rgb(128, 128, 128);
+    margin: 0px 0px 16px;
+}
+
+a{
+    background-color: transparent;
+}
+
+.grbZhS {
+    -webkit-user-drag: none;
+    user-select: none;
+    display: block;
+    margin: 0px 0px 8px;
+}
+
+img{
+    border-style: none;
+}
+
+.cxuodm {
+    -webkit-user-drag: none;
+    user-select: none;
+    display: block;
+    margin: 0px;
+}

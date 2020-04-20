@@ -1,4 +1,4 @@
-/* .duIoak {
+.duIoak {
     width: 1136px;
     display: grid;
     grid-template-columns: repeat(24, 1fr);
@@ -15,4 +15,4 @@
     grid-column: 1 / 25;
     grid-column-gap: 16px;
     grid-row-gap: 16px;
-} */
+}

@@ -3,7 +3,7 @@ import './edHighlight.css';
 
 function EdHighlight() {
   return (
-    <div>
+    <div class="sOajk">
       <div>
         <h6>Educator highlights</h6>
         <div>

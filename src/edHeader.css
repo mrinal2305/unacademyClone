@@ -37,6 +37,21 @@
     width: 128px;
 }
 
+.fuQTPR {
+    height: 128px;
+    width: 128px;
+    background-image: url(https://edge.uacdn.net/static/thumbnail/user/0b0aed4….jpg?q=100&w=512);
+    background-size: cover;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    -webkit-user-drag: none;
+    user-select: none;
+    background-position: center center;
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    grid-column: initial;
+}
+
 .edHead-edu-detail{
     padding-left: 24px;
 }

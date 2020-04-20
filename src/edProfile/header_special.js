@@ -3,11 +3,11 @@ import './header_special.css';
 
 function HeaderSpecial() {
   return (
-    <div class="div">
-      <h4 class="h4">Special Classes</h4>
+    <div class="header-profile-div">
+      <h4 class="header-profile-h4">Special Classes</h4>
       <div class="Grow-lbx0cm-0 aFrHS"></div>
-      <a class="a" href="#">
-      <p class="p">SEE ALL</p>
+      <a class="header-profile-a" href="#">
+      <p class="header-profile-p">SEE ALL</p>
       </a>
     </div>
   );

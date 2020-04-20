@@ -16,3 +16,7 @@
     grid-column-gap: 16px;
     grid-row-gap: 16px;
 }
+
+.grid-child {
+    grid-column: 1 / 19;
+}

@@ -3,11 +3,11 @@ import './free.css';
 
 function Free() {
   return (
-    <div class="wrapper">
-    <div class="container">
+    <div class="free-wrapper">
+    <div class="free-container">
       
-      <div class="item">
-        <div class="card">
+      <div class="free-item">
+        <div class="free-card">
           <a class="exwfAE" href="/course/constitutional-framework-part-i-laxmikant-201/1VZRVCHI">
             <div orientation="vertical" class="fWbtym hfNpQJ">
               <img src="https://edge.uacdn.net/A5HE0XQYTC9GEDF1MUXW/images/2.jpeg?fm=webp&w=480" alt="" orientation="vertical" class=" kVtcyG" />
@@ -17,15 +17,15 @@ function Free() {
             </div>
           </a>
           
-          <div class="detail-wrapper">
+          <div class="free-detail-wrapper">
             <div >
-              <div class="course-info">
+              <div class="free-course-info">
                 <span class="kXAzmG">Hindi</span>
                 <a class="kxOnID" href="/goal/upsc-civil-services-examination-ias-preparation/KSCGY/topic/JJZOS">
                 <span class="eExUNp">MCQs</span>
                 </a>
               </div>
-              <a class="detail-anchor"><h6 class="detail-h6">(Hindi) Ecology and Environment (MCQ) - UPSC CSE</h6></a>
+              <a class="free-detail-anchor"><h6 class="free-detail-h6">(Hindi) Ecology and Environment (MCQ) - UPSC CSE</h6></a>
               <div class="StarRating__Flex-auf177-0 etCuDU">
                 <svg width="12px" height="12px" viewBox="0 0 80 80" class="">
                   <path d="M72.367 32.5c-0.296-0.892-1.055-1.552-1.986-1.698l-0.014-0.002-19.433-2.833-8.7-17.6c-0.462-0.765-1.289-1.269-2.233-1.269s-1.771 0.504-2.227 1.257l-0.007 0.012-8.7 17.6-19.433 2.833c-1.211 0.188-2.126 1.223-2.126 2.472 0 0.704 0.291 1.34 0.759 1.794l0.001 0.001 14.033 13.7-3.333 19.333c-0.023 0.127-0.036 0.274-0.036 0.423 0 0.836 0.405 1.577 1.029 2.038l0.007 0.005c0.374 0.235 0.829 0.375 1.317 0.375s0.942-0.14 1.327-0.381l-0.010 0.006 17.4-8.967 17.367 9.133c0.337 0.188 0.739 0.299 1.166 0.3h0c0.001 0 0.003 0 0.005 0 1.381 0 2.5-1.119 2.5-2.5 0-0.153-0.014-0.303-0.040-0.449l0.002 0.015-3.333-19.333 14.033-13.7c0.485-0.452 0.787-1.094 0.787-1.806 0-0.272-0.044-0.533-0.125-0.778l0.005 0.017z" fill="#FFAD3B">
@@ -35,13 +35,13 @@ function Free() {
                     <p color="#808080" class="P2-sc-6jrkt9-0 fEOPKq">9 ratings</p></div>
             </div>
             <div class="aFrHS"></div>
-            <a class="anchor"><p class="anchor-p">Nidhi Gaur</p></a>
+            <a class="free-anchor"><p class="free-anchor-p">Nidhi Gaur</p></a>
           </div>
         </div>
       </div>  
 
-      <div class="item">
-        <div class="card">
+      <div class="free-item">
+        <div class="free-card">
           <a class="exwfAE" href="/course/constitutional-framework-part-i-laxmikant-201/1VZRVCHI">
             <div orientation="vertical" class="fWbtym hfNpQJ">
               <img src="https://edge.uacdn.net/A5HE0XQYTC9GEDF1MUXW/images/2.jpeg?fm=webp&w=480" alt="" orientation="vertical" class=" kVtcyG" />
@@ -51,15 +51,15 @@ function Free() {
             </div>
           </a>
           
-          <div class="detail-wrapper">
+          <div class="free-detail-wrapper">
             <div >
-              <div class="course-info">
+              <div class="free-course-info">
                 <span class="kXAzmG">Hindi</span>
                 <a class="kxOnID" href="/goal/upsc-civil-services-examination-ias-preparation/KSCGY/topic/JJZOS">
                 <span class="eExUNp">MCQs</span>
                 </a>
               </div>
-              <a class="detail-anchor"><h6 class="detail-h6">(Hindi) Daily MCQ's Series - UPPSC</h6></a>
+              <a class="free-detail-anchor"><h6 class="free-detail-h6">(Hindi) Daily MCQ's Series - UPPSC</h6></a>
               <div class="StarRating__Flex-auf177-0 etCuDU">
                 <svg width="12px" height="12px" viewBox="0 0 80 80" class="">
                   <path d="M72.367 32.5c-0.296-0.892-1.055-1.552-1.986-1.698l-0.014-0.002-19.433-2.833-8.7-17.6c-0.462-0.765-1.289-1.269-2.233-1.269s-1.771 0.504-2.227 1.257l-0.007 0.012-8.7 17.6-19.433 2.833c-1.211 0.188-2.126 1.223-2.126 2.472 0 0.704 0.291 1.34 0.759 1.794l0.001 0.001 14.033 13.7-3.333 19.333c-0.023 0.127-0.036 0.274-0.036 0.423 0 0.836 0.405 1.577 1.029 2.038l0.007 0.005c0.374 0.235 0.829 0.375 1.317 0.375s0.942-0.14 1.327-0.381l-0.010 0.006 17.4-8.967 17.367 9.133c0.337 0.188 0.739 0.299 1.166 0.3h0c0.001 0 0.003 0 0.005 0 1.381 0 2.5-1.119 2.5-2.5 0-0.153-0.014-0.303-0.040-0.449l0.002 0.015-3.333-19.333 14.033-13.7c0.485-0.452 0.787-1.094 0.787-1.806 0-0.272-0.044-0.533-0.125-0.778l0.005 0.017z" fill="#FFAD3B">
@@ -69,14 +69,14 @@ function Free() {
                     <p color="#808080" class="P2-sc-6jrkt9-0 fEOPKq">4 ratings</p></div>
             </div>
             <div class="aFrHS"></div>
-            <a class="anchor"><p class="anchor-p">Nidhi Gaur</p></a>
+            <a class="free-anchor"><p class="free-anchor-p">Nidhi Gaur</p></a>
           </div>
         </div>
       </div>  
 
 
-      <div class="item">
-        <div class="card">
+      <div class="free-item">
+        <div class="free-card">
           <a class="exwfAE" href="/course/constitutional-framework-part-i-laxmikant-201/1VZRVCHI">
             <div orientation="vertical" class="fWbtym hfNpQJ">
               <img src="https://edge.uacdn.net/A5HE0XQYTC9GEDF1MUXW/images/2.jpeg?fm=webp&w=480" alt="" orientation="vertical" class=" kVtcyG" />
@@ -86,15 +86,15 @@ function Free() {
             </div>
           </a>
           
-          <div class="detail-wrapper">
+          <div class="free-detail-wrapper">
             <div >
-              <div class="course-info">
+              <div class="free-course-info">
                 <span class="kXAzmG">Hindi</span>
                 <a class="kxOnID" href="/goal/upsc-civil-services-examination-ias-preparation/KSCGY/topic/JJZOS">
                 <span class="eExUNp">MCQs</span>
                 </a>
               </div>
-              <a class="detail-anchor"><h6 class="detail-h6">(Hindi) UPSC CSE: Daily Multiple Choice Questions Series</h6></a>
+              <a class="free-detail-anchor"><h6 class="free-detail-h6">(Hindi) UPSC CSE: Daily Multiple Choice Questions Series</h6></a>
               <div class="StarRating__Flex-auf177-0 etCuDU">
                 <svg width="12px" height="12px" viewBox="0 0 80 80" class="">
                   <path d="M72.367 32.5c-0.296-0.892-1.055-1.552-1.986-1.698l-0.014-0.002-19.433-2.833-8.7-17.6c-0.462-0.765-1.289-1.269-2.233-1.269s-1.771 0.504-2.227 1.257l-0.007 0.012-8.7 17.6-19.433 2.833c-1.211 0.188-2.126 1.223-2.126 2.472 0 0.704 0.291 1.34 0.759 1.794l0.001 0.001 14.033 13.7-3.333 19.333c-0.023 0.127-0.036 0.274-0.036 0.423 0 0.836 0.405 1.577 1.029 2.038l0.007 0.005c0.374 0.235 0.829 0.375 1.317 0.375s0.942-0.14 1.327-0.381l-0.010 0.006 17.4-8.967 17.367 9.133c0.337 0.188 0.739 0.299 1.166 0.3h0c0.001 0 0.003 0 0.005 0 1.381 0 2.5-1.119 2.5-2.5 0-0.153-0.014-0.303-0.040-0.449l0.002 0.015-3.333-19.333 14.033-13.7c0.485-0.452 0.787-1.094 0.787-1.806 0-0.272-0.044-0.533-0.125-0.778l0.005 0.017z" fill="#FFAD3B">
@@ -104,7 +104,7 @@ function Free() {
                     <p color="#808080" class="P2-sc-6jrkt9-0 fEOPKq">38 ratings</p></div>
             </div>
             <div class="aFrHS"></div>
-            <a class="anchor"><p class="anchor-p">Nidhi Gaur</p></a>
+            <a class="free-anchor"><p class="free-anchor-p">Nidhi Gaur</p></a>
           </div>
         </div>
       </div>  

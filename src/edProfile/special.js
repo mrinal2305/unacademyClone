@@ -3,11 +3,11 @@ import './special.css';
 
 function Special() {
   return (
-    <div class="wrapper">
-      <div class="container">
+    <div class="special-wrapper">
+      <div class="special-container">
         
-        <div class="item">
-          <div class="card">
+        <div class="special-item">
+          <div class="special-card">
             <a class="exwfAE" href="/course/constitutional-framework-part-i-laxmikant-201/1VZRVCHI">
               <div orientation="vertical" class="fWbtym hfNpQJ">
                 <img src="https://edge.uacdn.net/static/thumbnail/course/24bb93ad30514aa6b65d54c35caf2634.png?q=100&w=512&fm=webp" alt="" orientation="vertical" class=" kVtcyG" />
@@ -19,25 +19,25 @@ function Special() {
               </div>
             </a>
             
-            <div class="detail-wrapper">
+            <div class="special-detail-wrapper">
               <div >
-                <div class="course-info">
+                <div class="special-course-info">
                   <span class="kXAzmG">Hindi</span>
                   <a class="kxOnID" href="/goal/upsc-civil-services-examination-ias-preparation/KSCGY/topic/JJZOS">
                   <span class="eyjAIn">Indian Polity</span>
                   </a>
                 </div>
-                <a class="detail-anchor"><h6 class="detail-h6">Practice session on Polity through MCQs</h6></a>
-                <p class="end">Lesson 1 � Started at 9:30 AM</p>
+                <a class="special-detail-anchor"><h6 class="special-detail-h6">Practice session on Polity through MCQs</h6></a>
+                <p class="special-end">Lesson 1 � Started at 9:30 AM</p>
               </div>
               <div class="aFrHS"></div>
-              <a class="anchor"><p class="anchor-p">Nidhi Gaur</p></a>
+              <a class="special-anchor"><p class="special-anchor-p">Nidhi Gaur</p></a>
             </div>
           </div>
         </div>
 
-        <div class="item">
-          <div class="card">
+        <div class="special-item">
+          <div class="special-card">
             <a class="exwfAE" href="/course/constitutional-framework-part-i-laxmikant-201/1VZRVCHI">
               <div orientation="vertical" class="fWbtym hfNpQJ">
                 <img src="https://edge.uacdn.net/static/thumbnail/course/24bb93ad30514aa6b65d54c35caf2634.png?q=100&w=512&fm=webp" alt="" orientation="vertical" class=" kVtcyG" />
@@ -48,26 +48,26 @@ function Special() {
               </div>
             </a>
             
-            <div class="detail-wrapper">
+            <div class="special-detail-wrapper">
               <div >
-                <div class="course-info">
+                <div class="special-course-info">
                   <span class="kXAzmG">Hindi</span>
                   <a class="kxOnID" href="/goal/upsc-civil-services-examination-ias-preparation/KSCGY/topic/JJZOS">
                   <span class="eyjAIn">Polity,
                         Governance &amp; IR</span>
                   </a>
                 </div>
-                <a class="detail-anchor"><h6 class="detail-h6">Practice session for polity with mcqs</h6></a>
-                <p class="end">Ended on Apr 17, 2020</p>
+                <a class="special-detail-anchor"><h6 class="special-detail-h6">Practice session for polity with mcqs</h6></a>
+                <p class="special-end">Ended on Apr 17, 2020</p>
               </div>
               <div class="aFrHS"></div>
-              <a class="anchor"><p class="anchor-p">Nidhi Gaur</p></a>
+              <a class="special-anchor"><p class="special-anchor-p">Nidhi Gaur</p></a>
             </div>
           </div>
         </div>  
 
-        <div class="item">
-          <div class="card">
+        <div class="special-item">
+          <div class="special-card">
             <a class="exwfAE" href="/course/constitutional-framework-part-i-laxmikant-201/1VZRVCHI">
               <div orientation="vertical" class="fWbtym hfNpQJ">
                 <img src="https://edge.uacdn.net/static/thumbnail/course/24bb93ad30514aa6b65d54c35caf2634.png?q=100&w=512&fm=webp" alt="" orientation="vertical" class=" kVtcyG" />
@@ -78,20 +78,20 @@ function Special() {
               </div>
             </a>
             
-            <div class="detail-wrapper">
+            <div class="special-detail-wrapper">
               <div >
-                <div class="course-info">
+                <div class="special-course-info">
                   <span class="kXAzmG">Hindi</span>
                   <a class="kxOnID" href="/goal/upsc-civil-services-examination-ias-preparation/KSCGY/topic/JJZOS">
                   <span class="eyjAIn">Polity,
                         Governance &amp; IR</span>
                   </a>
                 </div>
-                <a class="detail-anchor"><h6 class="detail-h6">Understanding the devices of Parliamentary Proceedings</h6></a>
-                <p class="end">Ended on Apr 16, 2020</p>
+                <a class="special-detail-anchor"><h6 class="special-detail-h6">Understanding the devices of Parliamentary Proceedings</h6></a>
+                <p class="special-end">Ended on Apr 16, 2020</p>
               </div>
               <div class="aFrHS"></div>
-              <a class="anchor"><p class="anchor-p">Nidhi Gaur</p></a>
+              <a class="special-anchor"><p class="special-anchor-p">Nidhi Gaur</p></a>
             </div>
           </div>
         </div>  

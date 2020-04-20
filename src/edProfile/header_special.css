@@ -1,4 +1,4 @@
-.div{
+.header-profile-div{
     display: flex;
     margin-bottom: 16px;
     margin-top: 28px;
@@ -6,29 +6,29 @@
     align-items: center;
     padding: 0px;
     grid-column: span 18 / auto;
+    
 }
 
-.h4{
+.header-profile-h4{
     font-weight: bold;
     font-size: 20px;
     line-height: 150%;
     color: rgb(60, 72, 82);
-    margin: 0px;
+    margin: 0px
 }
 
-.a{
+.header-profile-a{
     line-height: 150%;
     font-size: 12px;
     font-weight: normal;
 }
 
-a {
-    background-color: transparent;
-    text-decoration: none;
+.aFrHS {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
 }
 
-
-.p{
+.header-profile-p{
     font-size: 14px;
     line-height: 150%;
     color: rgb(8, 189, 128);
@@ -36,7 +36,6 @@ a {
     margin: 0px;
 }
 
-.aFrHS {
-    -webkit-box-flex: 1;
-    flex-grow: 1;
+a{
+    background-color: transparent;
 }

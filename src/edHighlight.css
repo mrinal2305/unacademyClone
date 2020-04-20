@@ -1,3 +1,64 @@
 .sOajk {
     grid-column: 19 / 25;
 }
+
+.container{
+    overflow-y: auto;
+    position: sticky;
+    top: 184px;
+    width: calc(272px);
+    transition: all 100ms ease 0s;
+    padding: 32px 12px 0px 24px;
+}
+
+.h6{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 150%;
+    color: rgb(60, 72, 82);
+    margin: 0px;
+}
+
+.stats{
+    margin-top: 24px;
+}
+
+.works{
+    display: flex;
+    align-content: space-between;
+    margin-bottom: 16px;
+}
+
+.works-h6{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 150%;
+    color: rgb(60, 72, 82);
+    margin: -1px 0px 0px 12px;
+    flex: 1 1 0%;
+}
+
+.works-p{
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 150%;
+    display: inline;
+    color: rgb(60, 72, 82);
+    margin: 0px;
+}
+
+.view-more{
+    display: flex;
+    margin-top: 8px;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.h6{
+    display: flex;
+    margin-top: 8px;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+}

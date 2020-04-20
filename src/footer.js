@@ -7,26 +7,26 @@ function Footer() {
       <footer class="footer-container">
         <div class="footer-wrapper">
           <div class="footer-info">
-            <div><a href="/" class="anchor-image"><img class="anchor-img" src="https://static.uacdn.net/production/_next/static/images/logo.svg"
+            <div><a href="/" class="foot-anchor-image"><img class="foot-anchor-img" src="https://static.uacdn.net/production/_next/static/images/logo.svg"
               alt="Company Logo" /></a></div>
-            <div class="anchor-list">
-              <a href="https://www.facebook.com/unacademy/" target="_blank" rel="noopener noreferrer"><img class="anchor-img"
+            <div class="foot-anchor-list">
+              <a href="https://www.facebook.com/unacademy/" target="_blank" rel="noopener noreferrer"><img class="foot-anchor-img"
                 src="https://static.uacdn.net/production/_next/static/images/facebook.svg"
                 alt="facebook" /></a>
               <a href="https://www.youtube.com/channel/UCABe2FgVNv2hgBeMu2mySVg"
-                target="_blank" rel="noopener noreferrer"><img class="anchor-img"
+                target="_blank" rel="noopener noreferrer"><img class="foot-anchor-img"
                   src="https://static.uacdn.net/production/_next/static/images/youtube.svg"
                   alt="youtube" /></a>
               <a href="https://twitter.com/unacademy" target="_blank"
-                rel="noopener noreferrer"><img class="anchor-img"
+                rel="noopener noreferrer"><img class="foot-anchor-img"
                   src="https://static.uacdn.net/production/_next/static/images/twitter.svg"
                   alt="twitter" /></a>
               <a href="https://www.instagram.com/unacademy/" target="_blank"
-                rel="noopener noreferrer"><img class="anchor-img"
+                rel="noopener noreferrer"><img class="foot-anchor-img"
                   src="https://static.uacdn.net/production/_next/static/images/instagram.svg"
                   alt="instagram" /></a>
               <a href="https://www.linkedin.com/company/unacademy" target="_blank"
-                rel="noopener noreferrer"><img class="anchor-img"
+                rel="noopener noreferrer"><img class="foot-anchor-img"
                   src="https://static.uacdn.net/production/_next/static/images/linkedin.svg"
                   alt="linkedin" /></a>
             </div>

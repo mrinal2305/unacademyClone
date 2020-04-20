@@ -1,4 +1,4 @@
-.container{
+.cse-container{
     display: grid;
     grid-template-columns: repeat(60, 32px);
     padding-left: 16px;
@@ -7,21 +7,21 @@
     overflow: hidden;
 }
 
-.wrapper{
+.cse-wrapper{
     position: relative;
     margin-left: -16px;
     margin-right: -16px;
     grid-column: span 18 / auto;
 }
 
-.item{
+.cse-item{
     opacity: 1;
     display: flex;
     grid-column: span 6 / auto;
     transition: opacity 1000ms ease-in 0s, transform 400ms ease-in 0s !important;
 }
 
-.card{
+.cse-card{
     display: flex;
     background-color: rgb(255, 255, 255);
     box-shadow: rgb(240, 244, 247) 0px 16px 32px;
@@ -118,7 +118,7 @@ a{
     -webkit-tap-highlight-color: transparent;
 }
 
-.detail-wrapper{
+.cse-detail-wrapper{
     display: flex;
     flex-direction: column;
     -webkit-box-pack: justify;
@@ -136,13 +136,13 @@ a{
     
 }
 
-.anchor{
+.cse-anchor{
         line-height: 150%;
         font-size: 12px;
         font-weight: normal;
 }
 
-.anchor-p{
+.cse-anchor-p{
     font-weight: normal;
     font-size: 12px;
     line-height: 150%;
@@ -151,7 +151,7 @@ a{
     margin: 0px;
 }
 
-.course-info{
+.cse-course-info{
     padding-bottom: 8px;
     display: flex;
     -webkit-box-align: center;
@@ -196,13 +196,13 @@ a{
     padding: 0px;
 }
 
-.detail-anchor{
+.cse-detail-anchor{
     line-height: 150%;
     font-size: 12px;
     font-weight: normal;
 }
 
-.detail-h6{
+.cse-detail-h6{
     font-weight: 600;
     font-size: 14px;
     line-height: 150%;
@@ -217,7 +217,7 @@ a{
     overflow: hidden;
 }
 
-.end{
+.cse-end{
     font-weight: normal;
     font-size: 12px;
     line-height: 150%;

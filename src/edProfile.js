@@ -8,7 +8,7 @@ import HeaderFree from './edProfile/header_free';
 
 function EdProfile() {
   return (
-    <div class="ijgWJf">
+    <div >
      <HeaderCse />
      <CSE />
      <HeaderSpecial />

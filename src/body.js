@@ -9,7 +9,9 @@ function Body() {
         <div class="duIoak">
             <div class="krSLNl">
                 <EdHeader />
-                <EdProfile />
+                <div class="grid-child">
+                <EdProfile/>
+                </div>
                 <EdHighlight />
             </div>
         </div>
